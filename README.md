@@ -16,11 +16,11 @@ This project simulates a real-world IT environment by automatically generating a
 
 ### 3. API Security & Network Binding
 *Configuring the server to restrict API POST requests exclusively to the physical host machine's IP address (192.168.1.191).*
-![API Key Configuration](Homelab_Tickets3.png)
+![API Key Configuration](Homelab_Tickets4.png)
 
 ### 4. Completed Ticket Lifecycle
 *The finalized view of the closed ticket queue after successfully processing the automated batch.*
-![Closed Queue](Homelab_Tickets4.png)
+![Closed Queue](Homelab_Tickets3.png)
 
 ## Core Skills Demonstrated
 * **Systems Administration:** Provisioning and configuring an Ubuntu Linux VM, Apache web server, and MariaDB database to host an enterprise application.
